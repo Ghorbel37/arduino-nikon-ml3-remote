@@ -1,0 +1,15 @@
+# Build output (Arduino IDE / arduino-cli exports)
+build/
+*.bin
+*.elf
+*.hex
+
+# PlatformIO
+.pio/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
