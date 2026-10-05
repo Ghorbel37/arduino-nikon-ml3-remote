@@ -121,7 +121,7 @@ if (digitalRead(YOUR_PIN) == LOW) { ... }
 
 ## License
 
-This project is open-source and available for personal and educational use.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
